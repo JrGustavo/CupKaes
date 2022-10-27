@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/3559db1f1d3a16a6a4821b8c08ae5bbe/transformed/databinding-adapters-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/51e6047839c1328dc42b7bca039a166a/transformed/jetified-databinding-ktx-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/33ec8dfb43125838116a8b29308ef791/transformed/databinding-runtime-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/41423b2d86bc4b5520d1c707b32aa93e/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8697961061d3c36664d6bc0a5453ee51/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/01ddcb97c6a4e6ce16fc417d2303c669/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/28a64a2299ef30a5af0e419c80543376/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/ea0d852ef430b714b30cd2fc5939fcc1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/6b92f1ec1e97c032e49933f21794be89/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/3f3a3778501324fca148d46c9b1568b9/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/0d1e09e00abb50a0f8eaf617ee3c12b9/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/3aec3dde9f547f00276f9850764acbe6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/2940595acbcba250bee9c334c181e055/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/be1a98703b4d199d043e4fc6f15441d2/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8c6683beec302ff0b1681f8f553f7781/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8be6d9378df38a706187af0e14fe5841/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/07f2e07b695b25db6f7224fa236fa48a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/5ada6cf158d4d3b18283bc176919cb5f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/e3c06e73bf4150c22f81012bf43bb3aa/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/0baa9a4e8e2eca37d4847b23afd0b2f0/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/cdc3e8a64f3a1788bfc2d472af607540/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/2f81d96c1b3d215eab68d4fad9d49681/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/033fdcb6bd419fb1a33f3aa31be0e30a/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/df23fea09378dadd71f0bfde1ae094ce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/4cb8bbad9b2ec83f83697f83cddf4278/transformed/jetified-viewbinding-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/cd188f5b4c17c18bb38dcf9573413eba/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/cb89001dbc0aeeb9973af47947ccfcb3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/d4753962dfae74de355a675984f1ea2b/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/12197d9c7e0d15df543dd21d40f832d1/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/b4c334626cc4aad7cdfb1921a10efb12/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7261153327bb6369f5dae9e5ea081564/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7b694a1025a65431d201fe105e7870b9/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/2979c3c9fcfdaff77bb0f5d90a5e4f4e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/9dc15aa2838a6de22b37289a9c384a7c/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/353b4c26e5e8b65978367d68b4595a54/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/16272efdf2207d92afe70cefc7e50382/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8ea4c60d196cb7fe8a5699c0499af42e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/9c24cd1c24f4c7c8afade4f6b87b4e25/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/c6ee8e846d5f893423268cf725752241/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/a794e9973964e8a377ae591ec0d7bc65/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/1c7e75c89495b8762408d43a05b7bd16/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/9bf57cd0a389f9b554665721cb34eb56/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:1-36:12
+	package
+		INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:19:5-34:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8697961061d3c36664d6bc0a5453ee51/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8697961061d3c36664d6bc0a5453ee51/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/01ddcb97c6a4e6ce16fc417d2303c669/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/01ddcb97c6a4e6ce16fc417d2303c669/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/033fdcb6bd419fb1a33f3aa31be0e30a/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/033fdcb6bd419fb1a33f3aa31be0e30a/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/df23fea09378dadd71f0bfde1ae094ce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/df23fea09378dadd71f0bfde1ae094ce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/16272efdf2207d92afe70cefc7e50382/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/16272efdf2207d92afe70cefc7e50382/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/033fdcb6bd419fb1a33f3aa31be0e30a/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:23:9-61
+	android:icon
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:21:9-50
+	android:allowBackup
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:26:9-33:20
+	android:exported
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:26:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/3559db1f1d3a16a6a4821b8c08ae5bbe/transformed/databinding-adapters-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/3559db1f1d3a16a6a4821b8c08ae5bbe/transformed/databinding-adapters-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/51e6047839c1328dc42b7bca039a166a/transformed/jetified-databinding-ktx-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/51e6047839c1328dc42b7bca039a166a/transformed/jetified-databinding-ktx-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/33ec8dfb43125838116a8b29308ef791/transformed/databinding-runtime-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/33ec8dfb43125838116a8b29308ef791/transformed/databinding-runtime-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/41423b2d86bc4b5520d1c707b32aa93e/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/41423b2d86bc4b5520d1c707b32aa93e/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8697961061d3c36664d6bc0a5453ee51/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8697961061d3c36664d6bc0a5453ee51/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/01ddcb97c6a4e6ce16fc417d2303c669/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/01ddcb97c6a4e6ce16fc417d2303c669/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/28a64a2299ef30a5af0e419c80543376/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/28a64a2299ef30a5af0e419c80543376/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/ea0d852ef430b714b30cd2fc5939fcc1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/ea0d852ef430b714b30cd2fc5939fcc1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/6b92f1ec1e97c032e49933f21794be89/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/6b92f1ec1e97c032e49933f21794be89/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/3f3a3778501324fca148d46c9b1568b9/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/3f3a3778501324fca148d46c9b1568b9/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/0d1e09e00abb50a0f8eaf617ee3c12b9/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/0d1e09e00abb50a0f8eaf617ee3c12b9/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/3aec3dde9f547f00276f9850764acbe6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/3aec3dde9f547f00276f9850764acbe6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/2940595acbcba250bee9c334c181e055/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/2940595acbcba250bee9c334c181e055/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/be1a98703b4d199d043e4fc6f15441d2/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/be1a98703b4d199d043e4fc6f15441d2/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8c6683beec302ff0b1681f8f553f7781/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8c6683beec302ff0b1681f8f553f7781/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8be6d9378df38a706187af0e14fe5841/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8be6d9378df38a706187af0e14fe5841/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/07f2e07b695b25db6f7224fa236fa48a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/07f2e07b695b25db6f7224fa236fa48a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/5ada6cf158d4d3b18283bc176919cb5f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/5ada6cf158d4d3b18283bc176919cb5f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/e3c06e73bf4150c22f81012bf43bb3aa/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/e3c06e73bf4150c22f81012bf43bb3aa/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/0baa9a4e8e2eca37d4847b23afd0b2f0/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/0baa9a4e8e2eca37d4847b23afd0b2f0/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/cdc3e8a64f3a1788bfc2d472af607540/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/cdc3e8a64f3a1788bfc2d472af607540/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/2f81d96c1b3d215eab68d4fad9d49681/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/2f81d96c1b3d215eab68d4fad9d49681/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/033fdcb6bd419fb1a33f3aa31be0e30a/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/033fdcb6bd419fb1a33f3aa31be0e30a/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/df23fea09378dadd71f0bfde1ae094ce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/df23fea09378dadd71f0bfde1ae094ce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/4cb8bbad9b2ec83f83697f83cddf4278/transformed/jetified-viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/4cb8bbad9b2ec83f83697f83cddf4278/transformed/jetified-viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/cd188f5b4c17c18bb38dcf9573413eba/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/cd188f5b4c17c18bb38dcf9573413eba/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/cb89001dbc0aeeb9973af47947ccfcb3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/cb89001dbc0aeeb9973af47947ccfcb3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/d4753962dfae74de355a675984f1ea2b/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/d4753962dfae74de355a675984f1ea2b/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/12197d9c7e0d15df543dd21d40f832d1/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/12197d9c7e0d15df543dd21d40f832d1/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/b4c334626cc4aad7cdfb1921a10efb12/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/b4c334626cc4aad7cdfb1921a10efb12/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7261153327bb6369f5dae9e5ea081564/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7261153327bb6369f5dae9e5ea081564/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7b694a1025a65431d201fe105e7870b9/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7b694a1025a65431d201fe105e7870b9/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/2979c3c9fcfdaff77bb0f5d90a5e4f4e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/2979c3c9fcfdaff77bb0f5d90a5e4f4e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/9dc15aa2838a6de22b37289a9c384a7c/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/9dc15aa2838a6de22b37289a9c384a7c/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/353b4c26e5e8b65978367d68b4595a54/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/353b4c26e5e8b65978367d68b4595a54/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/16272efdf2207d92afe70cefc7e50382/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/16272efdf2207d92afe70cefc7e50382/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8ea4c60d196cb7fe8a5699c0499af42e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/8ea4c60d196cb7fe8a5699c0499af42e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/9c24cd1c24f4c7c8afade4f6b87b4e25/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/9c24cd1c24f4c7c8afade4f6b87b4e25/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/c6ee8e846d5f893423268cf725752241/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/c6ee8e846d5f893423268cf725752241/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/a794e9973964e8a377ae591ec0d7bc65/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/a794e9973964e8a377ae591ec0d7bc65/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/1c7e75c89495b8762408d43a05b7bd16/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/1c7e75c89495b8762408d43a05b7bd16/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/9bf57cd0a389f9b554665721cb34eb56/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/9bf57cd0a389f9b554665721cb34eb56/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gustavoadolfoalvarado/Downloads/CupCake/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/16272efdf2207d92afe70cefc7e50382/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/16272efdf2207d92afe70cefc7e50382/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gustavoadolfoalvarado/.gradle/caches/transforms-3/7f206e5942b9a9feb52ac2f67d0e9c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
